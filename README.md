@@ -41,6 +41,13 @@ Every template includes a "What Can Go Wrong" section because I've already lived
 3. Customize the variables (marked with `{{PLACEHOLDER}}`)
 4. Run through the checklist before launch
 
+## Related Work
+
+Part of a set of open-source FDE tools:
+- [Event Data Tools](https://github.com/aley-fiore3/event-data-tools) — Python scripts for cleaning, migrating, and reconciling event data
+- [Fiore3 Automation Demos](https://github.com/aley-fiore3/fiore3-automation-demos) — Working automation demos for business operations
+- [Claude Prompt Library](https://github.com/aley-fiore3/claude-prompt-library) — Prompts and techniques for deploying Claude in client workflows
+
 ## License
 
 MIT — use these however you want. If they save you a 2am panic, that's all the thanks I need.
