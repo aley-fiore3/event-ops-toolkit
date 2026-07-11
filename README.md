@@ -47,6 +47,7 @@ Part of a set of open-source FDE tools:
 - [Event Data Tools](https://github.com/aley-fiore3/event-data-tools) — Python scripts for cleaning, migrating, and reconciling event data
 - [Fiore3 Automation Demos](https://github.com/aley-fiore3/fiore3-automation-demos) — Working automation demos for business operations
 - [Claude Prompt Library](https://github.com/aley-fiore3/claude-prompt-library) — Prompts and techniques for deploying Claude in client workflows
+- [Event Reconciliation Dashboard](https://github.com/aley-fiore3/event-reconciliation-dashboard) — No-code Streamlit dashboard for cleaning and reconciling registration data
 
 ## License
 
